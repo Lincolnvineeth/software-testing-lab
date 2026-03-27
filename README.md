@@ -1,5 +1,7 @@
 # Software Testing Lab — Python Calculator
 
+![CI](https://github.com/Lincolnvineeth/software-testing-lab/actions/workflows/run-tests.yml/badge.svg)
+
 A beginner-friendly software testing project built in Python using pytest.
 This project demonstrates core software testing techniques applied to a 
 simple calculator module, with automated test execution via GitHub Actions.
